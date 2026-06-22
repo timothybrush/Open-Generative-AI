@@ -34,6 +34,7 @@
 - [n8n-nodes-muapi](https://github.com/SamurAIGPT/n8n-nodes-muapi) — n8n community nodes for MuAPI — automate media generation
 - [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) — Open-source autonomous AI design agent
 - [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) — Free open-source AI social media scheduler — self-hostable alternative to Buffer and Hootsuite
+- [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — Curated Seedance 2.5 API guide, prompts, camera controls, and video generation examples
 
 ## 🌐 Try it Online — No Install Required
 
